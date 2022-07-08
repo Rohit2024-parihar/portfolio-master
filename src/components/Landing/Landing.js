@@ -25,7 +25,6 @@ function Landing(props) {
    
     const [value,setValue]=useState(1)
  const handleClick=()=>{
-    let x = Math.floor((Math.random() * 10) + 1);
     setValue(Math.floor((Math.random() * 10) + 1));
  }
  console.log(value)
