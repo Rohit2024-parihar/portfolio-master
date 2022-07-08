@@ -13,7 +13,7 @@ export const testimonialsData = [
         id: 1,
         name: 'Aswin lal',
         title: 'Lead Engineer',
-        text: "Rohit is very knowledgeable on system design and extremely collaborative. He continues to push the bar to ensure the product meets the vision of our customers.",
+        text: "Rohit is very knowledgeable on React and extremely collaborative.He continues to push the bar to ensure the product meets our vision .",
         image:'https://media-exp2.licdn.com/dms/image/C5603AQEgRnmiMbMp-g/profile-displayphoto-shrink_200_200/0/1648923144912?e=1662595200&v=beta&t=SVxRjyT_Wde7YmatH3j0M95Q2Aq36Z0PCuJn4-D9C3w'
     },
     {
