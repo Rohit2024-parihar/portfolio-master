@@ -13,7 +13,7 @@ export const testimonialsData = [
         id: 1,
         name: 'Aswin lal',
         title: 'Lead Engineer',
-        text: "Rohit is very knowledgeable on system design and extremely collaborative. He continues to push the bar to ensure the product meets the vision of our customers. I continue to be amazed at how his mind works.",
+        text: "Rohit is very knowledgeable on system design and extremely collaborative. He continues to push the bar to ensure the product meets the vision of our customers.",
         image:'https://media-exp2.licdn.com/dms/image/C5603AQEgRnmiMbMp-g/profile-displayphoto-shrink_200_200/0/1648923144912?e=1662595200&v=beta&t=SVxRjyT_Wde7YmatH3j0M95Q2Aq36Z0PCuJn4-D9C3w'
     },
     {
@@ -27,7 +27,7 @@ export const testimonialsData = [
         id: 3,
         name: 'Yash Verma',
         title: 'Senior Software Engineer',
-        text: "Hi, I would like to share my working experience with Rohit, we have worked together on multiple projects. He is a great person to work with, he has excellent technical skills (MuleSoft/Integrations) and leadership skills,",
+        text: "Hi, I would like to share my working experience with Rohit, we have worked together on multiple projects. He is a great person to work with,",
         image: "https://media-exp2.licdn.com/dms/image/C4E03AQEGYn0A7JrvIQ/profile-displayphoto-shrink_200_200/0/1609413308989?e=1662595200&v=beta&t=x2QXw3ov6PuIfKz360EfW5DYY7bkqCq02zRqj3KT-Z0"
     },
     {
@@ -41,7 +41,7 @@ export const testimonialsData = [
         id: 5,
         name: 'Osama Ayaz',
         title: 'Software Engineer',
-        text: 'Rohit is one of the smartest and nicest people I have had the pleasure to work with. He displays not only a deep technical understanding but also a profound understanding of the business world. Additionally, Prashant always takes the time to mentor others and make sure that ideas are clearly expressed and understood by the whole team.',
+        text: 'Rohit is one of the smartest and nicest people I have had the pleasure to work with. He displays not only a deep technical understanding.',
         image: 'https://media-exp2.licdn.com/dms/image/C4D03AQFAR3BtJdvsiw/profile-displayphoto-shrink_200_200/0/1654441087383?e=1662595200&v=beta&t=YrX-lKPRgyzgBc5t9tVz6XBvI0NfB8D8xhqzaDYr738'
     },
 ]

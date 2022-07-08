@@ -196,8 +196,8 @@ function Landing(props) {
                                     Contact
                                 </Button>
                             </NavLink>
-                           <br/> <Button className={classes.resumeBtn} onClick={handleClick}>
-                                        Change Theme
+                           <br/> <Button onClick={handleClick}>
+                                    
                                     </Button>
                                     <ThemeContextProvider value1={value}/>
                         </div>

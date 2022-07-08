@@ -2,7 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'Galgotias University',
-        course: 'Bachelor of Technology(B.Tech)',
+        course: 'B.Tech',
         cgpa:'8.8 cgpa',
         startYear: '2018',
         endYear: '2022'
