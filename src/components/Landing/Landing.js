@@ -175,7 +175,7 @@ function Landing(props) {
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
                                 <a
-                                   // href={headerData.resumePdf}
+                                   href={headerData.resumePdf}
                                     download='resume'
                                     target='_blank'
                                     rel='noreferrer'
