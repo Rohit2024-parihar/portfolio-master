@@ -6,12 +6,12 @@ export const experienceData = [
         startYear: '2021',
         endYear: 'Present'
     },
-    {
-        id: 2,
-        company: 'Cognizant',
-        jobtitle: 'Full Stack Developer',
-        startYear: '2021',
-        endYear: '2021'
-    },
+    // {
+    //     id: 2,
+    //     company: 'Cognizant',
+    //     jobtitle: 'Internship Digital Nurture',
+    //     startYear: '2021',
+    //     endYear: '2021'
+    // },
    
 ]

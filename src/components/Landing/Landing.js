@@ -110,7 +110,7 @@ function Landing(props) {
                                 />
                             </a>
                         )}
-                        {socialsData.twitter && (
+                        {/* {socialsData.twitter && (
                             <a
                                 href={socialsData.twitter}
                                 target='_blank'
@@ -122,8 +122,8 @@ function Landing(props) {
                                     aria-label='Twitter'
                                 />
                             </a>
-                        )}
-                        {socialsData.youtube && (
+                        )} */}
+                        {/* {socialsData.youtube && (
                             <a
                                 href={socialsData.youtube}
                                 target='_blank'
@@ -148,7 +148,7 @@ function Landing(props) {
                                     aria-label='Blogger'
                                 />
                             </a>
-                        )}
+                        )} */}
                     </div>
                 </div>
                 <img
