@@ -9,11 +9,10 @@ import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
 
 import {
-    FaTwitter,
+    
     FaLinkedin,
     FaGithub,
-    FaYoutube,
-    FaBlogger,
+   
 } from 'react-icons/fa';
 
 function Landing(props) {
