@@ -8,12 +8,12 @@ import six from "../assets/svg/projects/six.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Netlix UI",
+    projectName: "Shop Now",
     projectDesc:
-      "This project aims to build an Netlix UI with typewritter effect and on after click it shows movie trailer",
-    tags: ["React", "CSS", "Material Ui"],
-    code: "https://github.com/Rohit2024-parihar/Netflix-UI",
-    demo: "https://rohit-parihar-db09c4.netlify.app/",
+      "Shopping Time is an e-commerce website that has at least 150 women's clothing products with differentsizes and color choices. You can choose various attributes like size and color.",
+    tags: ["React","Javascript", "HTML", "CSS"],
+    code: "https://github.com/Rohit2024-parihar/Shop-Now",
+    demo: "https://shop-now-one.vercel.app/",
     image: one,
   },
   {
@@ -28,6 +28,16 @@ export const projectsData = [
   },
   {
     id: 3,
+    projectName: "Netlix UI",
+    projectDesc:
+      "This project aims to build an Netlix UI with typewritter effect and on after click it shows movie trailer",
+    tags: ["React", "CSS", "Material Ui"],
+    code: "https://github.com/Rohit2024-parihar/Netflix-UI",
+    demo: "https://rohit-parihar-db09c4.netlify.app/",
+    image: three,
+  },
+  {
+    id: 4,
     projectName: "Crypto-Bazaar",
     projectDesc:
       "Crypto-bazzar is a platform where you can see the current price of all crypto coins and also visual representation of changes in price compared to last one month , 1 year.",
@@ -45,15 +55,7 @@ export const projectsData = [
     demo: "https://covid-19-dashboard1.netlify.app/",
     image: five,
   },
-  {
-    id: 6,
-    projectName: "Uber Lite",
-    projectDesc: "Uber clone",
-    tags: ["Javascript","React", "CSS","HTML", "Material Ui"],
-    code: "",
-    demo: "",
-    image: six,
-  },
+ 
 ];
 
 // Do not remove any fields.
